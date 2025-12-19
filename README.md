@@ -1,4 +1,4 @@
-# 🍎 Clasification-Apple — README
+# 🍎 Clasification-Apple
 
 > Micro-app: Laravel frontend + Flask ML backend
 
